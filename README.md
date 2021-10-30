@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @diogo-costa-silva
+- 👀 I’m interested in Data Science and Web Development.
+- 🌱 I’m currently learning Node.js and React.
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me at Linkedin.com/in/diogo-costa-silva.
