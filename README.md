@@ -2,7 +2,7 @@
 
 I'm a data scientist 📊 and aspiring web developer 🧑‍💻 from Braga, Portugal 🇵🇹. 
 
-😎 Learn more about me on my [portfolio](https://diogo-costa-silva.github.io). <br>
+😎 Visit my [portfolio](https://diogo-costa-silva.github.io) to learn more about me. <br>
 🖥️ Here you can find my projects [here](https://github.com/diogo-costa-silva?tab=repositories). <br>
 📬 You can reach me via email at [dccsilva98@gmail.com](mailto:dccsilva98@gmail.com).
 
