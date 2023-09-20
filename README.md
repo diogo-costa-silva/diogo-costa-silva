@@ -1,4 +1,4 @@
-# Hi, I'm Diogo Silva
+# Hello! I'm Diogo Silva and welcome to my page.
 
 I'm a data scientist 📊 and aspiring web developer 🧑‍💻 from Braga, Portugal 🇵🇹. 
 
