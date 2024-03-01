@@ -1,8 +1,8 @@
-# Hello! 
+# Hello and welcome to my GitHub page! 
 
 ![Black Simple Personal LinkedIn Banner](https://github.com/diogo-costa-silva/assets/blob/main/linkedin_banner_dcs.png)
 
-I'm **Diogo Silva** and welcome to my GitHub page. I'm a data scientist 📊 and aspiring web developer 🧑‍💻 from Braga, Portugal 🇵🇹. 
+I'm a data scientist 📊 and aspiring web developer 🧑‍💻 from Braga, Portugal 🇵🇹. 
 
 ## 💫 About Me:
 🔭 I’m currently working at Mozaboot, a PHC partner based in Maputo, Mozambique. Here, I am engaged with PHC management software and gaining experience in programming languages such as Visual FoxPro (xBase), VB.net, and SQL Server for database management.
