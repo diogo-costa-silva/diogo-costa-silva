@@ -17,7 +17,7 @@ I'm a Data Scientist 📊 and aspiring Web Developer 🧑‍💻 from Braga, Por
 
 💬 Ask me about anything; I'll do my best to provide a helpful response.
 
-⚡ Fun fact: **Did you know that there are penguins in Africa?**
+🐧 Fun fact: **Did you know that there are penguins in Africa?**
 
 ---
 
