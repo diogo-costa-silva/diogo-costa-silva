@@ -2,7 +2,7 @@
 
 ![Black Simple Personal LinkedIn Banner](https://github.com/diogo-costa-silva/assets/blob/main/linkedin_banner_dcs.png)
 
-I'm a data scientist 📊 and aspiring web developer 🧑‍💻 from Braga, Portugal 🇵🇹. 
+I'm a Data Scientist 📊 and aspiring Web Developer 🧑‍💻 from Braga, Portugal 🇵🇹. 
 
 <br>
 
@@ -17,7 +17,7 @@ I'm a data scientist 📊 and aspiring web developer 🧑‍💻 from Braga, Por
 
 💬 Ask me about anything; I'll do my best to provide a helpful response.
 
-⚡ Fun fact: Did you know that there are penguins in Africa?
+⚡ Fun fact: **Did you know that there are penguins in Africa?**
 
 ---
 
