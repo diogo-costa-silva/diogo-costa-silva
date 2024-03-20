@@ -8,19 +8,23 @@ I'm a data scientist 📊 and aspiring web developer 🧑‍💻 from Braga, Por
 
 ## 💫 About Me:
 🔭 I’m currently working at Mozaboot, a PHC partner based in Maputo, Mozambique. Here, I am engaged with PHC management software and gaining experience in programming languages such as Visual FoxPro (xBase), VB.net, and SQL Server for database management.
-<br>
+
 👯 I’m looking to collaborate with organizations in the field of data science that allow me to learn and grow as a professional in this area, enhancing my knowledge in data analysis and machine learning.
-<br>
+
 🤝 I’m looking for help with implementing a website for my uncle’s rural hotel project.
-<br>
+
 🌱 I’m currently learning React to create beautiful websites.
-<br>
+
 💬 Ask me about anything; I'll do my best to provide a helpful response.
-<br>
+
 ⚡ Fun fact: Did you know that there are penguins in Africa?
 
-😎 Visit my [website](https://diogo-costa-silva.github.io) and learn more about myself and what I do. <br>
-🖥️ In my [portfolio](https://github.com/diogo-costa-silva/portfolio) you can find a full list of my projects with their description. <br>
+---
+
+😎 Visit my [website](https://diogo-costa-silva.github.io) and learn more about myself and what I do.
+
+🖥️ In my [portfolio](https://github.com/diogo-costa-silva/portfolio) you can find a full list of my projects with their description.
+
 📬 You can reach me via email at [dccsilva98@gmail.com](mailto:dccsilva98@gmail.com).
 
 
