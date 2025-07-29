@@ -7,7 +7,7 @@ I'm a Data Scientist 📊 and aspiring Web Developer 🧑‍💻 from Braga, Por
 <br>
 
 ## 💫 About Me:
-🔭 I’m currently working at Mozaboot, a PHC partner based in Maputo, Mozambique. Here, I am engaged with PHC management software and gaining experience in programming languages such as Visual FoxPro (xBase), VB.net, and SQL Server for database management.
+<!-- 🔭 I’m currently working at Mozaboot, a PHC partner based in Maputo, Mozambique. Here, I am engaged with PHC management software and gaining experience in programming languages such as Visual FoxPro (xBase), VB.net, and SQL Server for database management. -->
 
 👯 I’m looking to collaborate with organizations in the field of data science that allow me to learn and grow as a professional in this area, enhancing my knowledge in data analysis and machine learning.
 
