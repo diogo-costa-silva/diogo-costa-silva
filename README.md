@@ -108,9 +108,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
-<br>
 
 ---
+
+<br>
 
   **Thanks for visiting! Let's connect and build something amazing together** 🚀
 
