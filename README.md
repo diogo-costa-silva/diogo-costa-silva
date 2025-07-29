@@ -1,137 +1,124 @@
-# Hello and welcome to my GitHub page! 
+# Hello! I'm Diogo Costa Silva 👋
 
 ![Black Simple Personal LinkedIn Banner](https://github.com/diogo-costa-silva/assets/blob/main/linkedin_banner_dcs.png)
 
-I'm a Data Scientist 📊 and aspiring Web Developer 🧑‍💻 from Braga, Portugal 🇵🇹. 
+> I'm a Data Scientist passionate about transforming data into insights and aspiring Web Developer crafting digital experiences.
 
-<br>
 
-## 💫 About Me:
-<!-- 🔭 I’m currently working at Mozaboot, a PHC partner based in Maputo, Mozambique. Here, I am engaged with PHC management software and gaining experience in programming languages such as Visual FoxPro (xBase), VB.net, and SQL Server for database management. -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&width=435&lines=Data+Scientist+%F0%9F%93%8A;Web+Developer+%F0%9F%92%BB;From+Braga%2C+Portugal+%F0%9F%87%B5%F0%9F%87%B9;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-👯 I’m looking to collaborate with organizations in the field of data science that allow me to learn and grow as a professional in this area, enhancing my knowledge in data analysis and machine learning.
+<div align="center">
 
-🤝 I’m looking for help with implementing a website for my uncle’s rural hotel project.
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dccsilva98)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-costa-e-silva/)
+[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://diogo-costa-silva.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dccsilva98@gmail.com)
 
-🌱 I’m currently learning React to create beautiful websites.
-
-💬 Ask me about anything; I'll do my best to provide a helpful response.
-
-🐧 Fun fact: **Did you know that there are penguins in Africa?**
+</div>
 
 ---
 
-😎 Visit my [website](https://diogo-costa-silva.github.io) and learn more about myself and what I do.
+## 🎯 About Me
 
-🖥️ In my [portfolio](https://github.com/diogo-costa-silva/portfolio) you can find a full list of my projects with their description.
+🤝 Looking to collaborate with data science organizations on meaningful ML projects  
+🌱 Currently learning React and building web applications  
+🏨 Helping develop a website for my uncle's rural hotel project  
+🐧 Fun fact: There are penguins in Africa!
 
-📬 You can reach me via email at [dccsilva98@gmail.com](mailto:dccsilva98@gmail.com).
+---
 
+## 🛠️ Technologies & Tools
 
+<details>
+<summary><b>📊 Data Science & Analytics</b></summary>
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-costa-e-silva/)  [![Medium](https://img.shields.io/badge/Medium-98422F?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@dccsilva98) [![Medium](https://img.shields.io/badge/Twitter_(X)-black?style=for-the-badge&logo=x&logoColor=white)](https://medium.com/@https://medium.com/@dccsilva98)
+</details>
 
-<br>
+<details>
+<summary><b>💻 Web Development</b></summary>
 
-## 💻 Tech Stack & Tools:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+</details>
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<details>
+<summary><b>🗄️ Databases & Cloud</b></summary>
 
-### Data Science and Machine Learning
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Visualization
-![Tableau](https://img.shields.io/badge/Tableau-%2342138B.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-%21E97800.svg?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Kibana](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+</details>
 
-### Big Data
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+<details>
+<summary><b>📈 Visualization & BI</b></summary>
 
-### Frameworks
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+</details>
 
+---
 
-### Cloud Services 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+## 📈 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogo-costa-silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-costa-silva&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-### Platforms
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogo-costa-silva&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
-### Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+---
 
-<br>
+## 🎯 Featured Projects
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=diogo-costa-silva&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=diogo-costa-silva&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-costa-silva&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-<br>
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=diogo-costa-silva&repo=portfolio&theme=tokyonight)](https://github.com/diogo-costa-silva/portfolio)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+📋 **[View All Projects](https://github.com/diogo-costa-silva/portfolio)** - Complete portfolio with project descriptions and demos
 
-<br>
+</div>
 
-<!--- ### 🔝 Top Contributed Repo  --->
-<!--- ![](https://github-contributor-stats.vercel.app/api?username=diogo-costa-silva&limit=5&theme=dark&combine_all_yearly_contributions=true)                     --->
+---
 
-<!--
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> 
----> 
+## 💭 Daily Inspiration
 
-
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/dccsilva98) 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
 
 <br>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=diogo-costa-silva&color=blueviolet)
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+  **Thanks for visiting! Let's connect and build something amazing together** 🚀
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=diogo-costa-silva&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+</div>
