@@ -119,13 +119,10 @@ I'm a Data Scientist 📊 and aspiring Web Developer 🧑‍💻 from Braga, Por
 <!--- ### 🔝 Top Contributed Repo  --->
 <!--- ![](https://github-contributor-stats.vercel.app/api?username=diogo-costa-silva&limit=5&theme=dark&combine_all_yearly_contributions=true)                     --->
 
-<!--- <br>                         ---> 
-
+<!--
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> 
+---> 
 
 
 ## 💰 You can help me by Donating
