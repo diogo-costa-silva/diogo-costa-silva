@@ -130,6 +130,8 @@ I'm a Data Scientist 📊 and aspiring Web Developer 🧑‍💻 from Braga, Por
 
 <br>
 
+---
+
 ![](https://komarev.com/ghpvc/?username=diogo-costa-silva&color=blueviolet)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
