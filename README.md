@@ -18,7 +18,11 @@
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 ## 🎯 About Me
 
@@ -32,10 +36,16 @@
 
 ---
 
+<br>
+
+
 ## 🛠️ Technologies & Tools
+
+<br>
 
 <details>
 <summary><b>📊 Data Science & Analytics</b></summary>
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -46,8 +56,11 @@
 
 </details>
 
+<br>
+
 <details>
 <summary><b>💻 Web Development</b></summary>
+<br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -58,8 +71,11 @@
 
 </details>
 
+<br>
+
 <details>
 <summary><b>🗄️ Databases & Cloud</b></summary>
+<br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -69,8 +85,11 @@
 
 </details>
 
+<br>
+
 <details>
 <summary><b>📈 Visualization & BI</b></summary>
+<br>
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -78,7 +97,11 @@
 
 </details>
 
+<br>
+
 ---
+
+<br>
 
 ## 📈 GitHub Analytics
 
@@ -91,7 +114,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogo-costa-silva&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
+<br>
+
 ---
+
+<br>
 
 ## 🎯 Featured Projects
 
@@ -103,7 +130,11 @@
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 ## 💭 Daily Inspiration
 
@@ -111,12 +142,15 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
+<br>
 
 ---
 
 <br>
 
 <div align="center">
+
+<br>
 
 **Thanks for visiting! Let's connect and build something amazing together** 🚀
 
