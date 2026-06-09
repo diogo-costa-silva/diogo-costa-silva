@@ -133,6 +133,8 @@
 | **IBM HR Analytics** | What drives employee attrition? | r, eda, data-visualization, jupyter | [Code](https://github.com/diogo-costa-silva/ibm-hr-analytics) |
 | **MotoGP Analytics** | Exploring 70+ years of MotoGP data (1949–2022) | python, pandas, jupyter | [Code](https://github.com/diogo-costa-silva/motogp-analytics) |
 
+🔭 **Currently exploring:** N2 Digital Passport · Agroturismo Mirandela Website
+
 📂 **[All projects →](https://github.com/diogo-costa-silva/portfolio)** · 🌐 **[Live portfolio →](https://diogo-costa-silva.github.io)**
 
 <!-- PORTFOLIO:END -->
