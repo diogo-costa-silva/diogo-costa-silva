@@ -127,10 +127,11 @@
 
 | Project | What it is | Tech | Links |
 |---|---|---|---|
-| **Moto Routes** | Motorcycle route discovery platform | react, mapbox, supabase, typescript | [Code](https://github.com/diogo-costa-silva/moto-routes) · [Demo](https://moto-routes.vercel.app) |
-| **Scenic Routes** | Best scenic roads in Portugal | react, leaflet, python | [Code](https://github.com/diogo-costa-silva/scenic-routes-simple) · [Demo](https://scenic-routes-simple.vercel.app) |
-| **Sales Dashboard** | Interactive sales analytics dashboard | streamlit, python, pandas, data-science | [Code](https://github.com/diogo-costa-silva/streamlit-sales-dashboard) · [Demo](https://sales-dashbooard.streamlit.app/) |
-| **Multi-LLM Doc Chatbot** | Analyze TXT and PDF documents with multiple LLMs | llm, streamlit, python, text-analysis | [Code](https://github.com/diogo-costa-silva/doc-chatbot-multi-llm) · [Demo](https://huggingface.co/spaces/diogo-costa-silva/doc-chatbot-multi-llm) |
+| **Multi-LLM Doc Chatbot** | Chat with your PDFs across Gemini, Groq & Ollama | llm, gemini, groq, ollama | [Code](https://github.com/diogo-costa-silva/doc-chatbot-multi-llm) · [Demo](https://huggingface.co/spaces/diogo-costa-silva/doc-chatbot-multi-llm) |
+| **Moto Routes** | Curated motorcycle routes from real GPS data | react, typescript, supabase, mapbox | [Code](https://github.com/diogo-costa-silva/moto-routes) · [Demo](https://moto-routes.vercel.app) |
+| **Scenic Routes** | The 20 best scenic driving roads in Portugal | react, leaflet, python, geopandas | [Code](https://github.com/diogo-costa-silva/scenic-routes-simple) · [Demo](https://scenic-routes-simple.vercel.app) |
+| **IBM HR Analytics** | What drives employee attrition? | r, eda, data-visualization, jupyter | [Code](https://github.com/diogo-costa-silva/ibm-hr-analytics) |
+| **MotoGP Analytics** | Exploring 70+ years of MotoGP data (1949–2022) | python, pandas, jupyter | [Code](https://github.com/diogo-costa-silva/motogp-analytics) |
 
 📂 **[All projects →](https://github.com/diogo-costa-silva/portfolio)** · 🌐 **[Live portfolio →](https://diogo-costa-silva.github.io)**
 
